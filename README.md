@@ -1,12 +1,19 @@
 ## Olá! Sou a Carol Manso :sparkles:
 * :school_satchel: Estudante de Ciência da Computação na PUC-Minas (4º período) 
 * 📘 Atualmente aprendendo Go e desenvolvimento Web
-### Tecnologias, linguagens e ferramentas: 
+
+<hr>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-manso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" align="center"/> &nbsp;&nbsp;&nbsp;
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-manso&layout=compact&langs_count=16&theme=cobalt" align="center"/>
+  <img height="100em" width: "100" src="https://github.com/carol-manso/carol-manso/blob/main/hi.gif" align="right"/>
 </div>
-<div style="display: inline_block"><br>
+
+<hr>
+
+### Tecnologias, linguagens e ferramentas: 
+<div style="display: inline_block" align:"center"><br>
   
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
@@ -15,15 +22,13 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PostegreSql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- 
+  <img align="center" alt="PostegreSql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-
-
+   
 </div>
+
 <hr>
 <div> 
   <a href="https://instagram.com/carol_manso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
