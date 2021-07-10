@@ -1,6 +1,6 @@
 ## Olá! Sou a Carol Manso :sparkles:
 * :school_satchel: Estudante de Ciência da Computação na PUC-Minas (4º período) 
-* 📘 Atualmente aprendendo Go e desenvolvimento Web
+* 📘 Atualmente aprendendo desenvolvimento Web com backend em Java e Go
 
 <hr>
 
