@@ -1,12 +1,12 @@
 ## Olá! Sou a Carol Manso :sparkles:
 * :school_satchel: Estudante de Ciência da Computação na PUC-Minas (4º período) 
-* 📘 Atualmente aprendendo desenvolvimento Web com backend em Java e Go
+* 📘 Atualmente aprendendo desenvolvimento Web com backend em Java e front end em Angular, além da linguagem Go
 
 <hr>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-manso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" align="center"/> &nbsp;&nbsp;&nbsp;
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-manso&layout=compact&langs_count=16&theme=cobalt" align="center"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carol-manso&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" align="center"/> &nbsp;&nbsp;&nbsp;
+  <img height="150em"  width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-manso&layout=compact&langs_count=16&theme=cobalt" align="center"/>
   <img height="100em" width: "100" src="https://github.com/carol-manso/carol-manso/blob/main/hi.gif" align="right"/>
 </div>
 
