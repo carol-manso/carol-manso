@@ -1,6 +1,7 @@
-## Olá! Sou a Carol Manso :sparkles:
-* :school_satchel: Estudante de Ciência da Computação na PUC-Minas (4º período) 
-* 📘 Atualmente aprendendo desenvolvimento Web com backend em Java e front end em Angular, além da linguagem Go
+## Hi! I'm Carol Manso :sparkles:
+* :school_satchel: Computer Science student at PUC-Minas (4th period) 
+* 📘 Nowadays I'm learning about Web development using Java for the backend and Angular for the front-end
+* My favorite programming language is Go, and I'm interested about learning more about it. 
 
 <hr>
 
@@ -12,7 +13,7 @@
 
 <hr>
 
-### Tecnologias, linguagens e ferramentas: 
+### Technologies, languages & tools: 
 <div style="display: inline_block" align:"center"><br>
   
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
