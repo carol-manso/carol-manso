@@ -1,5 +1,5 @@
 ## Hi! I'm Carol Manso :sparkles:
-* :school_satchel: Computer Science student at PUC-Minas 8th period) 
+* :school_satchel: Computer Science student at PUC-Minas 
 * 📘 Nowadays I'm learning about Web development using Java for the backend and Angular for the front-end.
 
 <hr>
